@@ -1,0 +1,15 @@
+{
+    "name": "ayumu/measuring_lazy_loading",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ayumu",
+            "email": "your@email.com"
+        }
+    ],
+    "require": {}
+}
